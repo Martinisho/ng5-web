@@ -78,6 +78,7 @@ export class HomeComponent implements OnInit {
 
       //this.loginService.showData(mydata);
       // this.router.navigate(['/']);
+      //jeje
 
     }, (error) => {
        console.log('there was an error sending the query', error);
